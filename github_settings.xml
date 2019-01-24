@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="5e4b3a8a-228f-49e4-a0f2-08bcd3164bb3" name="FuzzyNovaGoblin">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="fuzzy.nova.goblin@outlook.com" />
     <option name="AUTH_TYPE" value="BASIC" />
